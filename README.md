@@ -5,7 +5,7 @@
 - 💻 Interested in Full Stack Development
 - 🌱 Currently learning React, Node.js, and Android Development
 - 🔥 Passionate about Web Development and AI
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: susmitasusmita9877@gmail.com
 
 ---
 
