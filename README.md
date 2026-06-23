@@ -67,7 +67,6 @@ A web application for dairy farmers to track:
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/susmitasusmita9877-a11y
-- LinkedIn: Add your LinkedIn profile here
 
 ---
 
